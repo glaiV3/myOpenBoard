@@ -22,3 +22,12 @@ Realtime drawing being reflected by accessing same link at same time.
 * JAVACRIPT
 * EXPRESS JS
 * SOCKET.IO
+
+## Key Features
+* Draw using pencil (3 different colors, change the pencil size)
+* Erase the drawn area using eraser(change the eraser size)
+* Include a sticky note to make notes (Add multiple sticky notes, move sticky note around the drawing area, minimize and close the sticky note)
+* Upload an image
+* Download the drawn part on screen as an image onto your local machine.
+* Redo or undo the drawing content changes.
+* Real-time virtual environment for drawing and erasing.
